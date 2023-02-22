@@ -1,6 +1,6 @@
 # Regression-Collision-avoidance-in-Space
 This project is part one  of a two part assignment developed in light of the Machine Learning course attended at NOVA SST.
-<br /> The second part of this assignment was a Regression Problem related to Asteroid Collision, also avaliable on GitHub through this link: 
+<br /> The second part of this assignment was a Classification Problem with the popular Banknotes dataset, also avaliable on GitHub through this link: 
 <br /> https://github.com/zeca77/Classification-Banknotes
 
 
