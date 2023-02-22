@@ -11,11 +11,3 @@ For this problem, we tried to predict the miss distance using different degrees 
 
 ![Final Test Version](https://user-images.githubusercontent.com/45294533/220662382-547e7b46-8385-4f14-8a6b-6274322af265.png)
 
-# Classification: Detecting Bank note fraud
-For the second part of the assignment, the goal was to parametrize, fit and compare Naive Bayes classifiers.The data
-set is inspired on the banknote authentication problem in the UCI machine learning repository,
-but the data was adapted for this assignment.
-
-<br /> For this we implemented a Naive Bayes classifier using Kernel Density Estimation for the
-probability distributions of the feature values. This is the result:
-![Naive_Bayes](https://user-images.githubusercontent.com/45294533/220663649-a7ea5820-d725-4500-a0e5-51682ef5e1ae.png)
