@@ -1,5 +1,9 @@
 # Regression-Collision-avoidance-in-Space
-#### This assignment was done in light of the Machine Learning course I attended at NOVA SST.
+This project is part one  of a two part assignment developed in light of the Machine Learning course attended at NOVA SST.
+<br /> The second part of this assignment was a Regression Problem related to Asteroid Collision, also avaliable on GitHub through this link: 
+<br /> https://github.com/zeca77/Classification-Banknotes
+
+
 Many observatories around the globe continuously monitor man-made objects in LEO and
 collect large datasets of their observations. These observations are analysed in the context of pairs
 of objects, that are believed to be engaged in a close encounter. The task is to use real data
